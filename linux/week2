@@ -1,0 +1,34 @@
+linux伺服器
+
+想要連線到伺服器
+
+Rmote controller 遠端
+
+search mstsc
+
+因為伺服器開在本地和剛剛設置的port 直接用 127.0.0.1:25560
+
+command
+su (change to super user)
+
+關機指令:
+
+halt -p
+
+ shutdown (if you want to shutdown the machine immediately, you should use 'shutdown now',you can also use more setting like : shutdown 5 mintute later)
+
+ poweroff
+
+gedit 檔案名稱(編輯檔案)
+
+看檔案內容:
+
+cat 檔案名稱
+
+more 檔案名稱
+
+less 檔案名稱
+
+ifconfig(看ip address)
+
+ctr + c (break command)
